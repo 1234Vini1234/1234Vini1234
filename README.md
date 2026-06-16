@@ -91,13 +91,13 @@ Desenvolvedor Fullstack e Engenheiro de IA · Brasília, Brasil 🇧🇷
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1234Vini1234&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
+<img src="https://github-profile-trophy.vercel.app/?username=1234Vini1234&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
 
 </div>
 
@@ -107,10 +107,10 @@ Desenvolvedor Fullstack e Engenheiro de IA · Brasília, Brasil 🇧🇷
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_PERFIL">
+<a href="https://www.linkedin.com/in/vinicius-eloi-correa-b43997289/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:SEU_EMAIL@exemplo.com">
+<a href="mailto:viniciuseloicorrea9@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
