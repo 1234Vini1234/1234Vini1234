@@ -7,25 +7,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Engenheiro+de+IA+%26+Dev+Fullstack;Construindo+agentes+de+IA+com+RAG;Python+%7C+TypeScript+%7C+.NET+%7C+Next.js" alt="Typing SVG" />
 
-# Olá, eu sou o Vinicius 👋
-
 Desenvolvedor Fullstack e Engenheiro de IA · Brasília, Brasil 🇧🇷
-
-<img src="https://komarev.com/ghpvc/?username=1234Vini1234&label=Visitas+no+perfil&color=70a5fd&style=flat" alt="Visitas" />
-
 </div>
 
----
-
 ## 🚀 Sobre mim
-
 - 🤖 Trabalho com **agentes de IA** e desenvolvimento **fullstack**
 - 🎓 Estudante de **Engenharia de Software**
 - 🧠 Foco em **RAG**, **LLMs**, arquitetura de software e bancos de dados
 - 🛠️ Do back ao deploy: **.NET / Node.js** + **PostgreSQL** + **Docker**
 - 🌱 Sempre aprendendo algo novo
-
----
 
 ## 🛠️ Stacks que mais utilizo
 
