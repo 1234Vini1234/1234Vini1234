@@ -1,9 +1,6 @@
 <!-- =========================================================
-     INSTRUÇÕES (não aparecem no GitHub):
-     1. Troque TODOS os "SEU_USUARIO" pelo seu usuário do GitHub.
-     2. Ajuste o nome, a bio e os links de contato no final.
-     3. Quer mudar a cor dos cards? Troque "tokyonight" por:
-        radical, dracula, gruvbox, onedark, github_dark, etc.
+     Quer mudar a cor dos cards? Troque "tokyonight" por:
+     radical, dracula, gruvbox, onedark, github_dark, etc.
      ========================================================= -->
 
 <div align="center">
@@ -14,7 +11,7 @@
 
 Desenvolvedor Fullstack e Engenheiro de IA · Brasília, Brasil 🇧🇷
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas+no+perfil&color=70a5fd&style=flat" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=1234Vini1234&label=Visitas+no+perfil&color=70a5fd&style=flat" alt="Visitas" />
 
 </div>
 
@@ -84,8 +81,8 @@ Desenvolvedor Fullstack e Engenheiro de IA · Brasília, Brasil 🇧🇷
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=1234Vini1234&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Vini1234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
 
