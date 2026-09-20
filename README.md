@@ -6,7 +6,7 @@ Brasília, DF • viniciuseloicorrea9@gmail.com • [LinkedIn](https://www.linke
 
 ---
 
-## 🎯 Perfil Profissional
+##  Perfil Profissional
 
 Desenvolvedor Fullstack com especialização no desenvolvimento e arquitetura de **Agentes de IA e sistemas RAG (Retrieval-Augmented Generation)** em produção. Sólida experiência na integração de Large Language Models (LLMs) a ecossistemas corporativos robustos, utilizando bancos de dados vetoriais para otimização de busca semântica.
 
@@ -14,7 +14,7 @@ Atualmente cursando Engenharia de Software no CEUB (Brasília/DF), combino uma f
 
 ---
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Atualmente cursando Engenharia de Software no CEUB (Brasília/DF), combino uma f
 
 ---
 
-## 🤖 Engenharia de IA na Prática
+##  Engenharia de IA na Prática
 
 Construo **agentes de IA com arquitetura RAG** para consultas confiáveis sobre grandes bases de documentos, resolvendo o principal obstáculo de LLMs em produção: a **alucinação**.
 
@@ -36,7 +36,7 @@ O resultado: respostas **auditáveis e rastreáveis até a fonte**, sem citaçõ
 
 ---
 
-## 📊 Atividade no GitHub
+##  Atividade no GitHub
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1234Vini1234&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas de Vinícius" />
@@ -45,7 +45,7 @@ O resultado: respostas **auditáveis e rastreáveis até a fonte**, sem citaçõ
 
 ---
 
-## ✉️ Contato & Parcerias
+##  Contato 
 
 Estou disponível para consultorias, projetos de integração de IA ou oportunidades de engenharia de software fullstack.
 
