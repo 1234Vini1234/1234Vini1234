@@ -2,7 +2,7 @@
 
 **Engenheiro de Software & Engenharia de IA**
 
-Brasília, DF • viniciuseloicorrea9@gmail.com • [LinkedIn](https://www.linkedin.com/in/vinicius-eloi-correa-b43997289/) https://1234vini1234.github.io/portfoliohub/
+Brasília, DF • viniciuseloicorrea9@gmail.com • [LinkedIn] * (https://www.linkedin.com/in/vinicius-eloi-correa-b43997289/) https://1234vini1234.github.io/portfoliohub/
 
 ---
 
