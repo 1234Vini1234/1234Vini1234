@@ -1,6 +1,6 @@
 # Vinícius Eloi Corrêa
 
-**Engenheiro de Software & Especialista em Engenharia de IA**
+**Engenheiro de Software & Engenharia de IA**
 
 Brasília, DF • viniciuseloicorrea9@gmail.com • [LinkedIn](https://www.linkedin.com/in/vinicius-eloi-correa-b43997289/)
 
